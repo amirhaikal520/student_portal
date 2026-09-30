@@ -1,0 +1,4 @@
+/config/database.php
+/uploads/profile_pictures/*
+!.gitkeep
+.DS_Store
